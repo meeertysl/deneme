@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PUANINIHESAPLA</string>
+    <string-array name="sayfasecim">
+        <item>TYT</item>
+        <item>AYT</item>
+    </string-array>
+</resources>
